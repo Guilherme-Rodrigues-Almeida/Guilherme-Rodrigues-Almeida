@@ -1,5 +1,6 @@
 ### Hi there 👋
 
+https://badge42.vercel.app/api/v2/cljnab949006808mk8ymtsa5z/stats?cursusId=21&coalitionId=288
 <!--
 **Guilherme-Rodrigues-Almeida/Guilherme-Rodrigues-Almeida** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
